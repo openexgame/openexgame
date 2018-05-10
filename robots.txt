@@ -1,6 +1,8 @@
 User-agent: *
-Allow: /
 Disallow: /admin/
+Disallow: /account
+Disallow: /favorites
+Disallow: /cart
 
 
 Sitemap: https://misterio.shop/sitemap.xml
