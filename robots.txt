@@ -4,5 +4,5 @@ Disallow: /account
 Disallow: /favorites
 Disallow: /cart
 
-
-Sitemap: https://misterio.shop/sitemap.xml
+# removed 23.05.2018
+# Sitemap: https://misterio.shop/sitemap.xml
